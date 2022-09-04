@@ -1,5 +1,6 @@
 fil1
 ny rad 1
+ny rad 2
 ny rad i firstBranch
 flera rader i från firstBranch
 flera rader i från firstBranch
